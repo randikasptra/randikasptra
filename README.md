@@ -60,10 +60,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
+##### Play with me
 
 <img src="https://raw.githubusercontent.com/randikasptra/randikasptra/output/snake.svg" alt="Snake animation" />
 
-###
