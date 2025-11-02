@@ -1,73 +1,96 @@
-<!-- ## Hi there I'm Randika Saputra 👋 -->
+<!-- 💫 Hi there! I'm Randika Saputra 👋 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Hello+World+%F0%9F%91%8B;I'm+Randiishere;Fullstack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Randika+Saputra;A+Fullstack+Web+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </div>
 
-![Randika Saputra](img/github-header-banner.png)
+---
 
-#### Stats Accounts
+### 🧑‍💻 About Me
+💡 I’m a **Fullstack Web Developer** who loves to build creative, interactive, and useful web applications.  
+🚀 Passionate about **Laravel**, **React**, and modern front-end experiences.  
+🎯 Currently exploring **SPA development**, **API integrations**, and **system architecture**.  
+🌱 I love to learn, experiment, and improve every single day.  
+🎮 Fun fact: I enjoy coding while listening to lo-fi beats!
 
-<!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />  -->
+---
 
-<!-- ##### Connect With Me
-![https://www.instagram.com/randikasptrra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://www.linkedin.com/in/muhammad-randika-saputra-8299a030b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ![https://www.tiktok.com/@_randdddd?_t=ZS-8w7oxJ4Llt2&_r=1](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-
-
-##### Stats
-
-![Randika's GitHub stats](https://github-readme-stats.vercel.app/api?username=randikasptra&show_icons=true&theme=prussian)
- -->
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randikasptra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randikasptra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<!-- Core Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+
+<!-- Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" title="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" title="Vite"/>
+
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VSCode"/>
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 📊 GitHub Stats
 
-#### Skills
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randikasptra&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" height="170" alt="Randika's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randikasptra&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randikasptra&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="Top languages" />
 </div>
 
-##### Connect with me
+---
 
-<div align="left">
-  <a href="https://www.youtube.com/@RandikaSaputra-qw3ji" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
+### 🌐 Let's Connect
+
+<div align="center">
   <a href="https://www.instagram.com/randikasptrra_?igsh=bnhlZnp3YmxvYWxo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-randika-saputra-8299a030b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/muhammad-randika-saputra-8299a030b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@RandikaSaputra-qw3ji" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@_randdddd" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=TikTok&logoColor=white" />
   </a>
 </div>
 
-#### Play with me
+---
 
-<img src="https://raw.githubusercontent.com/randikasptra/randikasptra/output/snake.svg" alt="Snake animation" />
+### 🐍 My Contribution Snake 🐍
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/randikasptra/randikasptra/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### ✨ Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=randikasptra&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
