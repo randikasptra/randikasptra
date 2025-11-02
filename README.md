@@ -1,5 +1,5 @@
 ## Hi there I'm Randika Saputra 👋
-![Randika Saputra](img/banner-randika.png)
+![Randika Saputra](img/github-header-banner.png)
 
 
 #### Stats Accounts
