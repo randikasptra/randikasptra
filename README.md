@@ -1,4 +1,13 @@
-## Hi there I'm Randika Saputra 👋
+<!-- ## Hi there I'm Randika Saputra 👋 -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Tiswan;Fullstack+Developer;Cyber+Security+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</div>
+
 ![Randika Saputra](img/github-header-banner.png)
 
 
